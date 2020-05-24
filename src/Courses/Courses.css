@@ -1,0 +1,13 @@
+.Course {
+    padding: 25px;
+}
+
+.Course-Divider {
+    padding: 2px;
+    border-radius: 5px;
+    background-color: #afacac;
+}
+
+.Course-Desc {
+    color: #5f5f5f;
+}
