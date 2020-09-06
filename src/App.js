@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import NavBar from "./NavBar/NavBar.js";
 import About from "./About/About.js";

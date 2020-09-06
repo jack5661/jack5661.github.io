@@ -4,6 +4,7 @@
     height: 32px;
     margin-top: 15px;
     margin-right: 8px;
+    margin-bottom: 200px;
     background: url("./GitHub-Mark-32px.png");
 }
 
@@ -12,8 +13,4 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
-}
-
-.Contact > div > h2 > a {
-    color: black;
 }

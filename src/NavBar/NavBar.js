@@ -9,7 +9,7 @@ class NavBar extends React.Component {
             <div className = "NavBar">
                 <ul className = "Bar">
                     <a href = "#top"><li onClick = {this.props.showAbout}>Home</li></a>
-                    <a href = "#top"><li onClick = {this.props.showProjects}>Technical Projects</li></a>
+                    <a href = "#top"><li onClick = {this.props.showProjects}>Projects</li></a>
                     <a href = "#top"><li onClick = {this.props.showCourses}>Relevant Courses</li></a>
                     <a href = "#top"><li onClick = {this.props.showContact}>Contact</li></a>
                 </ul>

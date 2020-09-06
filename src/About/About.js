@@ -13,26 +13,22 @@ class About extends React.Component {
                 </div>
                 <div className = "Box" style = {{marginTop: "75px", textAlign: "center",}}>
                     <p className = "Personal_Description">
-                        I am a second year student studying at the University of British Colubmia! I am currently majoring 
+                        I am a third year student studying at the University of British Columbia! I am currently majoring 
                         in Computer Engineering.  
                     </p>
                     <div>
-                        <h2>Proefficient in the Following Technologies:</h2>
+                        <h2>Familiar with the Following Languages:</h2>
                         <div className = "Pictures">
                             <img alt = "C logo" src = {require("./CLogo.png")}/>
+                            <img alt = "C++ Logo" style = {{width: "160px", height: "180px", paddingTop: "22px"}}src = {require("./C++Logo.png")} />
                             <img alt = "Java Logo" src = {require("./JavaLogo.svg")} />
                             <img alt = "Python Logo" src = {require("./PythonLogo.png")} />
                             <img alt = "Git Logo" src = {require("./GitLogo.png")} />
                             <img alt = "HTML Logo" src = {require("./HTMLLogo.png")} />
                             <img alt = "CSS Logo" src = {require("./CSSLogo.png")} />
                             <img alt = "Javascript Logo" src = {require("./JSLogo.png")} />
-                        </div>
-                    </div>
-                    <div>
-                        <h2>Familiar with the Following:</h2>
-                        <div className = "Pictures">
-                            <img alt = "React Logo" style = {{maxWidth: "400px"}} src = {require("./ReactLogo.png")} />
-                            <img alt = "C++ Logo" src = {require("./C++Logo.png")} />
+                            <img alt = "React Logo" style = {{maxWidth: "300px"}} src = {require("./ReactLogo.png")} />
+
                         </div>
                     </div>
                 </div>
