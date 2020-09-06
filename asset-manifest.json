@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9095be6c.chunk.css",
-    "main.js": "/static/js/main.86f65088.chunk.js",
-    "main.js.map": "/static/js/main.86f65088.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.94a6af97.js",
-    "runtime-main.js.map": "/static/js/runtime-main.94a6af97.js.map",
-    "static/js/2.b31649f1.chunk.js": "/static/js/2.b31649f1.chunk.js",
-    "static/js/2.b31649f1.chunk.js.map": "/static/js/2.b31649f1.chunk.js.map",
+    "main.css": "/static/css/main.fc5580b8.chunk.css",
+    "main.js": "/static/js/main.22aeae16.chunk.js",
+    "main.js.map": "/static/js/main.22aeae16.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3374ac37.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3374ac37.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.cdd4bf67.chunk.js": "/static/js/2.cdd4bf67.chunk.js",
+    "static/js/2.cdd4bf67.chunk.js.map": "/static/js/2.cdd4bf67.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dbc0a303a39e78da2af81e7d8ba87467.js": "/precache-manifest.dbc0a303a39e78da2af81e7d8ba87467.js",
+    "precache-manifest.098b840ab92e76b93a35cb50608755ad.js": "/precache-manifest.098b840ab92e76b93a35cb50608755ad.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9095be6c.chunk.css.map": "/static/css/main.9095be6c.chunk.css.map",
-    "static/js/2.b31649f1.chunk.js.LICENSE.txt": "/static/js/2.b31649f1.chunk.js.LICENSE.txt",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.fc5580b8.chunk.css.map": "/static/css/main.fc5580b8.chunk.css.map",
+    "static/js/2.cdd4bf67.chunk.js.LICENSE.txt": "/static/js/2.cdd4bf67.chunk.js.LICENSE.txt",
     "static/media/C++Logo.png": "/static/media/C++Logo.f278be79.png",
     "static/media/CLogo.png": "/static/media/CLogo.3d09d683.png",
     "static/media/CSSLogo.png": "/static/media/CSSLogo.8f047bb8.png",
@@ -21,6 +23,7 @@
     "static/media/Library.jpg": "/static/media/Library.e0c26f24.jpg",
     "static/media/PythonLogo.png": "/static/media/PythonLogo.b9bbb1d7.png",
     "static/media/ReactLogo.png": "/static/media/ReactLogo.638be909.png",
+    "static/media/Timer-Python.jpg": "/static/media/Timer-Python.97bd12e2.jpg",
     "static/media/calc.jpg": "/static/media/calc.86f7c638.jpg",
     "static/media/etch-a-sketch.jpg": "/static/media/etch-a-sketch.ddd7f762.jpg",
     "static/media/react-restaurant.jpg": "/static/media/react-restaurant.421c8a02.jpg",
@@ -30,9 +33,10 @@
     "static/media/weather.jpg": "/static/media/weather.ab394fbc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.94a6af97.js",
-    "static/js/2.b31649f1.chunk.js",
-    "static/css/main.9095be6c.chunk.css",
-    "static/js/main.86f65088.chunk.js"
+    "static/js/runtime-main.3374ac37.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.cdd4bf67.chunk.js",
+    "static/css/main.fc5580b8.chunk.css",
+    "static/js/main.22aeae16.chunk.js"
   ]
 }
