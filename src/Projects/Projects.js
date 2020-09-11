@@ -22,6 +22,11 @@ class Projects extends React.Component {
                                 createPythonProjects()
                             }
                         </Tab>
+                        <Tab eventKey = "C/C++ Projects" title = "C/C++ Projects">
+                            {
+                                createCProjects()
+                            }
+                        </Tab>
                     </Tabs>
                 </div>
             </div>
@@ -131,6 +136,23 @@ function createPythonProjects() {
             }
         </div>
     )
+}
+
+function createCProjects() {
+    return (
+        <div>
+            {
+                createProject("SDL_ChasetheSpiders", 
+                            require("./ChasetheSpiders.jpg"), 
+                            "Player chases spiders and eats them for points. Can track current points, points from " + 
+                            "previous sessions, and has a pause button. The spiders enemies currently move in random directions " + 
+                            "and spawn in random positions in the map. Currently still working on this game",
+                            ["SDL2", "C++", "Microsoft Visual Studio"],
+                            "https://github.com/jack5661/SDL_ChasetheSpiders"
+                            )
+            }
+        </div>
+    );
 }
 
 function createProject(title, pic, desc, tech, link) {
